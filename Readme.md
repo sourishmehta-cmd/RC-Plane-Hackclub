@@ -1,4 +1,4 @@
-[RC PLANE BOM - RC Plane BOM (1).csv](https://github.com/user-attachments/files/23990558/RC.PLANE.BOM.-.RC.Plane.BOM.1.csv)This project would be a rc plane that I would want to build from scracth with different materials and using a flight controller to control different parts of the plane. 
+This project would be a rc plane that I would want to build from scracth with different materials and using a flight controller to control different parts of the plane. 
 I wanted to build a lightweight plane made out of foam and I would design my own pcb for my flight controller and It would help with my servo controlling and the stabilizing the plane with an IMC which using a rc ransmitter and also would have the battery. I hope this project gets accepted for hackclub!
 
 
